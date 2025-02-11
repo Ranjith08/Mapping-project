@@ -10,7 +10,7 @@
    * The public MapTiler key used for the map style.
    * @type {string}
    */
-  const publicMaptilerKey = "XtQybTQjRpKFSRHVSG0G";
+  const publicMaptilerKey = "tOLajJc34bJcEMuZ3CQn";
 
   /**
    * The map object.
@@ -242,4 +242,3 @@
     />
   </svg>
 </div>
-
